@@ -1,7 +1,5 @@
 ## Programa ait bazı optik formlar 
 
-<img src="optik/23.png"><br>
-
 <img src="optik/24.png"><br>
 
 <img src="optik/25.png"><br>
